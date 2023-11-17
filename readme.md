@@ -10,3 +10,4 @@
 
 [Enlace a hardware2.md](https://github.com/George20-03/mi_repo_git/blob/master/hardware/hardware2.md)
 
+[Enlace a hardware_Samuel.md](https://github.com/George20-03/mi_repo_git/blob/master/hardware/hardware_Samuel.md)
