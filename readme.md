@@ -8,3 +8,5 @@
 
 [Enlace a hardware1.md](hardware1.md)
 
+[Enlace a hardware2.md](hardware2.md)
+
